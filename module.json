@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-nrf51dk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "mbed HAL for Nordic nrf51dk BLE platform",
   "private": true,
   "keywords": [
