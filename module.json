@@ -8,7 +8,8 @@
     "hal",
     "nrf51dk",
     "nordic",
-    "nrf51822"
+    "nrf51822",
+    "mbed-official"
   ],
   "author": "rohit.grover@arm.com",
   "repository": {
@@ -26,6 +27,6 @@
     "mbed-hal-nrf51dk"
   ],
   "dependencies": {
-    "mbed-hal-nrf51822-mcu": "~0.0.1"
+    "mbed-hal-nrf51822-mcu": "^1.0.0"
   }
 }
